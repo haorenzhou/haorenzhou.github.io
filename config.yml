@@ -1,5 +1,5 @@
 # title of website
-title: haorenzhou.github.io
+title: 数据法常用工具
 
 # description of website
 description: haorenzhou's navigation site
@@ -14,7 +14,7 @@ url: https://haorenzhou.github.io/haorenzhou.github.io/
 github: "https://github.com/haorenzhou"
 
 # footer message
-footer: © 2021-2021 @haorenzhou
+footer: © 2023 @DLaw Hub
 
 # template(theme) of your site, available:
 # 1. webstack (http://webstack.cc)
@@ -38,105 +38,74 @@ webstack:
 
 content:
   categories:
-    - name: 常用推荐
+    - name: 资讯应用
       sites:
-        - name: Dribbble
-          description: 全球UI设计师作品分享平台。
-          url: https://dribbble.com/
-        - name: Behance
-          description: Adobe旗下的设计师交流平台，来自世界各地的设计师在这里分享自己的作品。
-          url: https://behance.net/
-        - name: UI中国
-          description: 图形交互与界面设计交流、作品展示、学习平台。
-          url: http://www.ui.cn/
-        - name: 站酷
-          description: 中国人气设计师互动平台
-          url: http://www.zcool.com.cn/
-        - name: Pinterest
-          description: 全球美图收藏采集站
-          url: https://www.pinterest.com/
-        - name: 花瓣
-          description: 收集灵感,保存有用的素材
-          url: http://huaban.com/
-        - name: 优设
-          description: 设计师交流学习平台
-          url: http://www.uisdc.com/
-        - name: Producthunt
-          description: 发现新鲜有趣的产品
-          url: https://www.producthunt.com/
-        - name: Youtube
-          description: 全球最大的学习分享平台
-          url: https://www.youtube.com/
-        - name: Google
-          description: 全球最大的UI学习分享平台
-          url: https://www.google.com/
-        - name: Medium
-          description: Read, write and share stories that matter
-          url: https://medium.com/
-    - name: 界面灵感
+        - name: DataGuidance
+          description: 【英文】每日追踪全球数据法相关的新闻资讯概要；少量免费试用次数
+          url: https://www.dataguidance.com/search/news
+        - name: Iapp news
+          description: 【英文】每日新闻概览；资讯全免费；有原文链接。
+          url: https://iapp.org/news
+        - name: GenAIs（AICG周报）
+          description: 可关注公众号“GenAIs”，梳理了AICG行业的讯息。
+          url: https://mp.weixin.qq.com/s/jv5nZvwMjgIsqN9DEu0fyA
+  - name: 数据法规网站
       sites:
-        - name: 咕噜素材
-          description: 质量很高的设计素材网站（推荐）
-          url: https://www.gulusucai.com/
-        - name: 设计周刊
-          description: 最新设计资讯（每天更新）
-          url: https://www.shejizhoukan.com/
-        - name: 字体仓库
-          description: 最全的免费商用字体库
-          url: https://www.ziticangku.com/
-        - name: 电鸭社区
-          description: 国内最早的远程工作社区，也是互联网工作者们的聚集地，非常适合设计开发小伙伴关注
-          url: https://eleduck.com/
-    - name: 社区资讯
+        - name: 数据保护版图项目 Data Protection Mapping Project
+          description: 用数据流的方式展示了各国规则之间的联系与不同，很直观。可以逐条对比各主要数据法之间的差异和对应关系。
+          url: https://www.dpmap.org/#/dashboard
+        - name: EUR- Lex法律库
+          description: 可以检索欧盟的法律文本和判例
+          url: https://eur-lex.europa.eu/homepage.html
+        - name: 欧盟、英国以及德国的数字立法进展追踪器
+          description: 德国百年老牌律所Taylor Wessing设计了一款app，追踪欧盟、英国以及德国的数字立法进展。
+          url: https://www.taylorwessing.com/en/online-services/digital-legislation-tracker?utm_source=LinkedIn&utm_medium=social&utm_content=Tool&utm_campaign=UK-DLT-210323
+  - name: 其他法规网站
       sites:
-        - name: 雷锋网
-          description: 人工智能和智能硬件领域的互联网科技媒体
-          url: https://www.leiphone.com/
-        - name: 36kr
-          description: 创业资讯、科技新闻
-          url: http://36kr.com/
-        - name: 数英网
-          description: 数字媒体及职业招聘网站
-          url: https://www.digitaling.com/
-        - name: 猎云网
-          description: 互联网创业项目推荐和创业创新资讯
-          url: http://www.lieyunwang.com/
-        - name: 人人都是产品经理
-          description: 产品经理、产品爱好者学习交流平台
-          url: http://www.woshipm.com/
-        - name: 互联网早读课
-          description: 互联网行业深度阅读与学习平台
-          url: https://www.zaodula.com/
-        - name: 产品壹佰
-          description: 为产品经理爱好者提供最优质的产品资讯、原创内容和相关视频课程
-          url: http://www.chanpin100.com/
-        - name: PMCAFF
-          description: 中国第一产品经理人气组织，专注于研究互联网产品
-          url: http://www.pmcaff.com/
-        - name: 爱运营
-          description: 网站运营人员学习交流，专注于网站产品运营管理、淘宝运营。
-          url: http://www.iyunying.org/
-        - name: 鸟哥笔记
-          description: 移动互联网第一干货平台
-          url: http://www.niaogebiji.com/
-        - name: 古田路9号
-          description: 国内专业品牌创意平台
-          url: http://www.gtn9.com/
-        - name: 优阁网
-          description: UI设计师学习交流社区
-          url: http://www.uigreat.com/
-    - name: 发现产品
+        - name: 全球法规网
+          description: 全球法规网是商务部官网项下的外国法律法规资源库，政府官方出品的高质量法规库，可以帮助大家快速无痛检索外国法律法规。境外法条、国际条约都支持标题及全文检索；法条均为官方中文译文，并附有原文链接；法规法条都按照国别及地区进行了分类，便于快速检索。
+          url: http://policy.mofcom.gov.cn/claw/
+        - name: Oslaw尽职调查网址导航
+          description: 最全面的法律类网址导航，涵盖了各种业务场景下会使用到的网页。
+          url: http://www.oslaw.net/c
+        - name: 全国认证认可信息公共服务平台
+          description: 这个平台可以查询到管理体系、服务、产品等认证信息，帮助企业核实相对方的证书真实性。
+          url: http://cx.cnca.cn/CertECloud/index/index/page
+        - name: 对外投资合作国别（地区）指南
+          description: 商务部编制的指南，涵盖了所在国政治、经济、社会等多方面内容，也包含了当地的法律制度。
+          url: http://fec.mofcom.gov.cn/article/gbdqzn/
+        - name: 上海国际经贸合规法律服务平平台
+          description: 包含了国际经贸相关的制裁、数据、法规、服务等内容。
+          url: https://www.jmhg.sh.cn/
+        - name: 美国各类制裁清单的综合导航入口（CSL）
+          description: 包含了出口管制、一类制裁、二类制裁等美国各部门发布的制裁清单。
+          url: https://www.trade.gov/consolidated-screening-list
+  - name: 国外法律制度介绍
       sites:
-        - name: NEXT
-          description: 不错过任何一个新产品
-          url: http://next.36kr.com/posts
-        - name: 少数派
-          description: 高品质数字消费指南
-          url: https://sspai.com/
-        - name: 利器
-          description: 创造者和他们的工具
-          url: http://liqi.io/
-        - name: Today
+        - name: DLA Piper Global Data Protection Laws of the World
+          description: 【英文】DLA Piper律所对全球各国数据法的梳理与汇总。
+          url: https://www.dlapiperdataprotection.com/index.html?t=about&c=IN
+        - name: Linklaters  Data Protected
+          description: 【英文】Linklaters律所对全球数据法律制度和相关概念的梳理。
+          url: https://www.linklaters.com/en/insights/data-protected/data-protected-glossary
+        - name: Baker Mckenzie Global Data Privacy & Security Handbook 
+          description: 【英文】Baker Mckenzie律所的梳理；各国法律法规的梳理较为全面。
+          url: https://resourcehub.bakermckenzie.com/en/resources/data-privacy-security/latin-america/argentina/topics/regulators-and-enforcement-priorities
+        - name: DataGuidance Jurisdiction
+          description: DataGuidance网站对各国制度、新闻、评论文章的汇总。法律制度的介绍较为简单。
+          url: https://www.dataguidance.com/jurisdiction/african-bodies
+        - name: DataGuidance Jurisdiction
+          description: DataGuidance网站对各国制度、新闻、评论文章的汇总。法律制度的介绍较为简单。
+          url: https://www.dataguidance.com/jurisdiction/african-bodies
+  - name: 欧洲数据保护机构官网
+      sites:
+        - name: 欧盟各成员国数据保护机构集合
+          url: https://edpb.europa.eu/about-edpb/about-edpb/members_en
+        - name: 奥地利（dsb）
+          url: https://www.dsb.gv.at/
+        - name: 比利时（(APD-GBA)
+          url: https://www.dataprotectionauthority.be/citizen
+        - name: 克罗地亚（azop）
           description: 为身边的新产品喝彩
           url: http://today.itjuzi.com/
         - name: 小众软件
@@ -154,50 +123,6 @@ content:
         - name: Android Niceties
           description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
           url: http://androidniceties.tumblr.com/
-    - name: 网页灵感
-      sites:
-        - name: Awwwards
-          description: Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
-          url: https://www.awwwards.com/
-        - name: CSS Design Awards
-          description: Website Awards & Inspiration - CSS Gallery
-          url: https://www.cssdesignawards.com/
-        - name: The FWA
-          description: FWA - showcasing innovation every day since 2000
-          url: https://thefwa.com/
-        - name: Ecommercefolio
-          description: Only the Best Ecommerce Design Inspiration
-          url: http://www.ecommercefolio.com/
-        - name: Lapa
-          description: The best landing page design inspiration from around the web.
-          url: http://www.lapa.ninja/
-        - name: Reeoo
-          description: web design inspiration and website gallery
-          url: http://reeoo.com/
-        - name: Designmunk
-          description: Best Homepage Design Inspiration
-          url: https://designmunk.com/
-        - name: Best Websites Gallery
-          description: Website Showcase Inspiration | Best Websites Gallery
-          url: https://bestwebsite.gallery/
-        - name: Pages
-          description: Curated directory of the best Pages
-          url: http://www.pages.xyz/
-        - name: SiteSee
-          description: SiteSee is a curated gallery of beautiful, modern websites collections.
-          url: https://sitesee.co/
-        - name: Site Inspire
-          description: A CSS gallery and showcase of the best web design inspiration.
-          url: https://www.siteinspire.com/
-        - name: WebInspiration
-          description: 网页设计欣赏,全球顶级网页设计
-          url: http://web.uedna.com/
-        - name: navnav
-          description: A ton of CSS, jQuery, and JavaScript responsive navigation examples, demos, and tutorials from all over the web.
-          url: http://navnav.co/
-        - name: Really Good UX
-          description: A library of screenshots and examples of really good UX. Brought to you by
-          url: https://www.reallygoodux.io/
     - name: 图标素材
       sites:
         - name: Iconfinder
