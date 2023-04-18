@@ -46,8 +46,6 @@ content:
         - name: Iapp news
           description: 【英文】每日新闻概览；资讯全免费；有原文链接。
           url: https://iapp.org/news
-        - name: GenAIs（AICG周报）
-          description: 可关注公众号“GenAIs”，梳理了AICG行业的讯息。
   - name: 数据法规网站
       sites:
         - name: 数据保护版图项目 Data Protection Mapping Project
@@ -96,32 +94,6 @@ content:
         - name: DataGuidance Jurisdiction
           description: DataGuidance网站对各国制度、新闻、评论文章的汇总。法律制度的介绍较为简单。
           url: https://www.dataguidance.com/jurisdiction/african-bodies
-  - name: 欧洲数据保护机构官网
-      sites:
-        - name: 欧盟各成员国数据保护机构集合
-          url: https://edpb.europa.eu/about-edpb/about-edpb/members_en
-        - name: 奥地利（dsb）
-          url: https://www.dsb.gv.at/
-        - name: 比利时（(APD-GBA)
-          url: https://www.dataprotectionauthority.be/citizen
-        - name: 克罗地亚（azop）
-          description: 为身边的新产品喝彩
-          url: http://today.itjuzi.com/
-        - name: 小众软件
-          description: 在这里发现更多有趣的应用
-          url: https://faxian.appinn.com/
-        - name: Pttrns
-          description: Check out the finest collection of design patterns, resources, mobile apps and inspiration
-          url: https://www.pttrns.com/
-        - name: Collect UI
-          description: Daily inspiration collected from daily ui archive and beyond.
-          url: http://collectui.com/
-        - name: UI uigreat
-          description: APP界面截图参考
-          url: http://ui.uigreat.com/
-        - name: Android Niceties
-          description: A collection of screenshots encompassing some of the most beautiful looking Android apps.
-          url: http://androidniceties.tumblr.com/
     - name: 图标素材
       sites:
         - name: Iconfinder
