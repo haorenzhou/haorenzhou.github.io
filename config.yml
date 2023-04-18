@@ -48,7 +48,6 @@ content:
           url: https://iapp.org/news
         - name: GenAIs（AICG周报）
           description: 可关注公众号“GenAIs”，梳理了AICG行业的讯息。
-          url: https://mp.weixin.qq.com/s/jv5nZvwMjgIsqN9DEu0fyA
   - name: 数据法规网站
       sites:
         - name: 数据保护版图项目 Data Protection Mapping Project
