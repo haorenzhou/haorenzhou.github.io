@@ -96,61 +96,112 @@ content:
         - name: DataGuidance Jurisdiction
           description: DataGuidance网站对各国制度、新闻、评论文章的汇总。法律制度的介绍较为简单。
           url: https://www.dataguidance.com/jurisdiction/african-bodies
-    - name: 欧洲数据保护机构官网
+    - name: 欧洲数据保护机构官网（从东到西）
       sites:
         - name: 🇪🇺欧盟各成员国数据保护机构集合
           description: 列举了欧盟成员国数据保护机构的清单和简单信息。
           url: https://edpb.europa.eu/about-edpb/about-edpb/members_en/
+        - name: 🇷🇺俄罗斯（Roskomnadzor）
+          description: 俄罗斯联邦通信、信息技术和大众传媒监督局官网
+          url: https://eng.rkn.gov.ru/
+        - name: 🇵🇱波兰（UODO）
+          description: 波兰数据保护机构官网
+          url: https://uodo.gov.pl/
+        - name: 🇭🇷克罗地亚（azop）
+          description: 克罗地亚数据保护机构官网
+          url: https://azop.hr/
+        - name: 🇨🇿捷克（uoou）
+          description: 捷克数据保护机构官网
+          url: https://www.uoou.cz/
+        - name: 🇬🇷希腊（Hellenic Data Protection Authority）
+          description: 希腊数据保护机构官网
+          url: https://www.dpa.gr/
+        - name: 🇭🇺匈牙利（NAIH）
+          description: 匈牙利数据保护机构官网
+          url: https://www.naih.hu/
         - name: 🇦🇹奥地利（dsb）
-          description: 奥地利数据保护机构
+          description: 奥地利数据保护机构官网
           url: https://www.dsb.gv.at/
-        - name: iconmonstr
-          description: Free simple icons for your next project
-          url: https://iconmonstr.com/
-        - name: Icon Archive
-          description: Search 590,912 free icons
-          url: http://www.iconarchive.com/
-        - name: FindIcons
-          description: Search through 300,000 free icons
-          url: https://findicons.com/
-        - name: IcoMoonApp
-          description: Icon Font, SVG, PDF & PNG Generator
-          url: https://icomoon.io/app/
-        - name: easyicon
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务
-          url: http://www.easyicon.net/
-        - name: flaticon
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-          url: https://www.flaticon.com/
-        - name: UICloud
-          description: The largest user interface design database in the world.
-          url: http://ui-cloud.com/
-        - name: Material icons
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-          url: https://material.io/icons/
-        - name: Font Awesome Icon
-          description: The complete set of 675 icons in Font Awesome
-          url: fontawesomeicon
-        - name: ion icons
-          description: The premium icon font for Ionic Framework.
-          url: http://ionicons.com/
-        - name: Simpleline Icons
-          description: Simple line Icons pack
-          url: http://simplelineicons.com/
-    - name: LOGO设计
+        - name: 🇩🇰丹麦（Datatilsynet）
+          description: 丹麦数据保护机构官网
+          url: https://www.datatilsynet.dk/
+        - name: 🇫🇮芬兰（Office of the Data Protection Ombudsman）
+          description: 芬兰数据保护机构官网
+          url: https://tietosuoja.fi/en/home
+        - name: 🇸🇪瑞典（IMY）
+          description: 瑞典数据保护机构官网
+          url: https://www.imy.se/
+        - name: 🇳🇴挪威（Datatilsynet）
+          description: 挪威数据保护机构官网
+          url: https://www.datatilsynet.no/
+        - name: 🇮🇸冰岛（Persónuvernd）
+          description: 冰岛数据保护机构官网
+          url: https://www.personuvernd.is/
+        - name: 🇩🇪德国（BFDI）
+          description: 德国数据保护机构官网
+          url: https://www.bfdi.bund.de/DE/Home/home_node.html
+        - name: 🇮🇹意大利（GPDP）
+          description: 意大利数据保护机构官网
+          url: https://www.garanteprivacy.it/
+        - name: 🇧🇪比利时（(APD-GBA)
+          description: 比利时数据保护机构官网
+          url: https://www.dataprotectionauthority.be/citizen
+        - name: 🇱🇺卢森堡（CNPD）
+          description: 卢森堡数据保护机构官网
+          url: https://cnpd.public.lu/fr.html
+        - name: 🇳🇱荷兰（Autoriteit Persoonsgegevens）
+          description: 荷兰数据保护机构官网
+          url: https://autoriteitpersoonsgegevens.nl/
+        - name: 🇫🇷法国（CNIL）
+          description: 法国数据保护机构官网
+          url: https://www.cnil.fr/en/contact-us
+        - name: 🇪🇸西班牙（AEPD）
+          description: 西班牙数据保护机构官网
+          url: https://www.aepd.es/es
+        - name: 🇵🇹葡萄牙（CNPD）
+          description: 葡萄牙数据保护机构官网
+          url: https://www.cnpd.pt/
+        - name: 🇮🇪爱尔兰（DPC）
+          description: 爱尔兰数据保护机构官网
+          url: https://www.dataprotection.ie/
+    - name: 亚太地区数据保护机构官网
       sites:
-        - name: Iconsfeed
-          description: iOS icons gallery
-          url: http://www.iconsfeed.com/
-        - name: iOS Icon Gallery
-          description: Showcasing beautiful icon designs from the iOS App Store
-          url: http://iosicongallery.com/
-        - name: World Vector Logo
-          description: Brand logos free to download
-          url: https://worldvectorlogo.com/
-        - name: Instant Logo Search
-          description: Search & download thousands of logos instantly
-          url: http://instantlogosearch.com/
+        - name: 🇭🇰中国香港
+          description: 中国香港個人資料私隱專員公署官网
+          url: https://www.pcpd.org.hk/cindex.html
+        - name: 🇲🇴中国澳门
+          description: 中国澳门個人資料保護辦公室官网
+          url: https://www.gpdp.gov.mo/zh_tw/index.html
+        - name: 中国台湾
+          description: 中国台湾個人資料保護專案辦公室官网
+          url: https://pipa.ndc.gov.tw/
+        - name: 🇰🇷韩国
+          description: 韩国个人信息保护委员会官网
+          url: https://www.privacy.go.kr/
+        - name: 🇯🇵日本（PPC）
+          description: 日本数据保护机构官网
+          url: https://www.ppc.go.jp/en/
+        - name: 🇮🇩印度尼西亚（Ministry of Communication and Informatics）
+          description: 印度尼西亚信息与通讯部官网
+          url: https://www.kominfo.go.id/
+        - name: 🇲🇾马来西亚（PDPC）
+          description: 马来西亚数据保护机构官网
+          url: https://www.pdp.gov.my/jpdpv2/?lang=en
+        - name: 🇸🇬新加坡（PDPC）
+          description: 新加坡数据保护机构官网
+          url: https://www.pdpc.gov.sg/
+        - name: 🇮🇳印度（MeitY）
+          description: 印度电子信息技术部官网
+          url: https://www.meity.gov.in/
+        - name: 🇵🇰巴基斯坦
+          description: 巴基斯坦信息技术与电信部官网
+          url: https://moitt.gov.pk/
+        - name: 🇵🇭菲律宾（NPC）
+          description: 菲律宾数据保护机构官网
+          url: https://www.privacy.gov.ph/
+        - name: 🇦🇺澳大利亚（OAIC）
+          description: 澳大利亚隐私专员办公室官网
+          url: https://www.oaic.gov.au/       
     - name: 平面素材
       sites:
         - name: wallhalla
