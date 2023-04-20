@@ -168,10 +168,10 @@ content:
       sites:
         - name: 🇭🇰中国香港
           description: 中国香港個人資料私隱專員公署官网
-          url: https://www.pcpd.org.hk/cindex.html
+          url: https://www.pcpd.org.hk/
         - name: 🇲🇴中国澳门
           description: 中国澳门個人資料保護辦公室官网
-          url: https://www.gpdp.gov.mo/zh_tw/index.html
+          url: https://www.gpdp.gov.mo/
         - name: 中国台湾
           description: 中国台湾個人資料保護專案辦公室官网
           url: https://pipa.ndc.gov.tw/
@@ -202,153 +202,57 @@ content:
         - name: 🇦🇺澳大利亚（OAIC）
           description: 澳大利亚隐私专员办公室官网
           url: https://www.oaic.gov.au/       
-    - name: 平面素材
+    - name: 中东地区数据保护机构官网
       sites:
-        - name: wallhalla
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-          url: https://wallhalla.com/
-        - name: 365PSD
-          description: Free PSD & Graphics, Illustrations
-          url: https://365psd.com/
-        - name: Medialoot
-          description: Free & Premium Design Resources — Medialoot
-          url: https://medialoot.com/
-        - name: 千图网
-          description: 专注免费设计素材下载的网站
-          url: http://www.58pic.com/
-        - name: 千库网
-          description: 免费png图片背景素材下载
-          url: http://588ku.com/
-        - name: 我图网
-          description: 我图网,提供图片素材及模板下载,专注正版设计作品交易
-          url: http://www.ooopic.com/
-        - name: 90设计
-          description: 电商设计（淘宝美工）千图免费淘宝素材库
-          url: http://90sheji.com/
-        - name: 昵图网
-          description: 原创素材共享平台
-          url: http://www.nipic.com/
-        - name: 懒人图库
-          description: 懒人图库专注于提供网页素材下载
-          url: http://www.lanrentuku.com/
-        - name: 素材搜索
-          description: 设计素材搜索聚合
-          url: http://so.ui001.com/
-        - name: PS饭团网
-          description: 不一样的设计素材库！让自己的设计与众不同！
-          url: http://psefan.com/
-        - name: 素材中国
-          description: 免费素材共享平台
-          url: http://www.sccnn.com/
-        - name: freepik
-          description: More than a million free vectors, PSD, photos and free icons.
-          url: https://www.freepik.com/
-    - name: UI资源
+        - name: 🇸🇦沙特（NDMO）
+          description: 沙特国家数据管理办公室官网
+          url: https://www.cnil.fr/
+        - name: 🇸🇦沙特（SDAIA）
+          description: 沙特数据和人工智能管理局官网
+          url: https://sdaia.gov.sa/
+    - name: 美洲地区数据保护机构官网
       sites:
-        - name: Freebiesbug
-          description: Hand-picked resources for web designer and developers, constantly updated.
-          url: https://freebiesbug.com/
-        - name: Freebie Supply
-          description: Free Resources For Designers
-          url: https://freebiesupply.com/
-        - name: 云瑞
-          description: 优秀设计资源的分享网站
-          url: https://www.yrucd.com/
-        - name: 稀土区
-          description: 优质设计开发资源分享
-          url: https://xituqu.com/
-        - name: ui8
-          description: UI Kits, Wireframe Kits, Templates, Icons and More
-          url: https://ui8.net/
-        - name: uplabs
-          description: Daily resources for product designers & developers
-          url: https://www.uplabs.com/
-        - name: UIkit.me
-          description: 最便捷新鲜的uikit资源下载网站
-          url: http://www.uikit.me/
-        - name: Fribbble
-          description: Free PSD files and other free design resources by Dribbblers.
-          url: http://www.fribbble.com/
-        - name: PrincipleRepo
-          description: Free, High Quality Principle Resources
-          url: http://principlerepo.com/
-        - name: Designmodo
-          description: Web Design Blog and Shop
-          url: https://designmodo.com/
-    - name: Sketch资源
+        - name: 🇨🇦加拿大（OPC）
+          description: 加拿大隐私专员办公室官网
+          url: https://www.priv.gc.ca/
+        - name: 🇧🇷巴西（ANPD）
+          description: 巴西数据保护机构官网
+          url: https://www.gov.br/anpd/pt-br
+        - name: 🇨🇴哥伦比亚（SIC）
+          description: 哥伦比亚工商监管局官网
+          url: https://www.sic.gov.co/
+    - name: 实用工具
       sites:
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-        - name: Sketch Measure
-          description: Friendly user interface offers you a more intuitive way of making marks.
-          url: http://utom.design/measure/
-        - name: Sketch App Sources
-          description: Free design resources and plugins - Icons, UI Kits, Wireframes, iOS, Android Templates for Sketch
-          url: https://www.sketchappsources.com/
-        - name: Sketch.im
-          description: Sketch 相关资源汇聚
-          url: http://www.sketch.im/
-        - name: Sketch Hunt
-          description: Sketch Hunt is an independent blog sharing gems in learning, plugins & design tools for fans of Sketch app.
-          url: http://sketchhunt.com/
-        - name: Sketch中文网
-          description: 分享最新的Sketch中文手册
-          url: http://www.sketchcn.com/
-        - name: Awesome Sketch Plugins
-          description: A collection of really useful Sketch plugins.
-          url: https://awesome-sket.ch/
-        - name: Sketchcasts
-          description: Learn Sketch Train your design skills with a weekly video tutorial
-          url: https://www.sketchcasts.net/
-        - name: Sketch
-          description: The digital design toolkit
-          url: https://sketchapp.com/
-    - name: 字体资源
+        - name: ITDOG
+          description: 可以查询dns，进行网站测速，看看哪些网站被封了，hh
+          url: https://www.itdog.cn/
+        - name: 语法检查工具 Grammarly
+          description: 帮助检查文章中的语法错误。基础版免费使用。
+          url: https://www.grammarly.com/office-addin/downloading/mac
+        - name: 知云文献翻译
+          description: 很好的翻译软件，边阅读边翻译。
+          url: https://www.yuque.com/xtranslator/zy/wv60oc
+        - name: Xtranslator 英文文献翻译软件
+          description: 知云团队2020年出品了一款新的软件叫做Xtranslator，可以配合自己喜欢的PDF阅读器使用。
+          url: https://www.yuque.com/xtranslator/help/xzzu1f
+        - name: （MailMaster）AI邮件生成
+          description: AI帮助你自动生成所需要的邮件正文。支持中文输入和输出。
+          url: https://mailmaster.ai/#/writeAndRes
+    - name: 官方公众号推荐
       sites:
-        - name: Google Font
-          description: Making the web more beautiful, fast, and open through great typography
-          url: https://fonts.google.com/
-        - name: Typekit
-          description: Quality fonts from the world’s best foundries.
-          url: https://typekit.com/
-        - name: 方正字库
-          description: 方正字库官方网站
-          url: http://www.foundertype.com/
-        - name: 字体传奇网
-          description: 中国首个字体品牌设计师交流网
-          url: http://ziticq.com/
-        - name: Fontsquirrel
-          description: FREE fonts for graphic designers
-          url: https://www.fontsquirrel.com/
-        - name: Urban Fonts
-          description: Download Free Fonts and Free Dingbats.
-          url: https://www.urbanfonts.com/
-        - name: Lost Type
-          description: Lost Type is a Collaborative Digital Type Foundry
-          url: http://www.losttype.com/
-        - name: FONTS2U
-          description: Download free fonts for Windows and Macintosh.
-          url: https://fonts2u.com/
-        - name: Fontex
-          description: Free Fonts to Download + Premium Typefaces
-          url: http://www.fontex.org/
-        - name: FontM
-          description: Free Fonts
-          url: http://fontm.com/
-        - name: My Fonts
-          description: Fonts for Print, Products & Screens
-          url: http://www.myfonts.com/
-        - name: Da Font
-          description: Archive of freely downloadable fonts.
-          url: https://www.dafont.com/
-        - name: OnlineWebFonts
-          description: WEB Free Fonts for Windows and Mac / Font free Download
-          url: https://www.onlinewebfonts.com/
-        - name: Abstract Fonts
-          description: Abstract Fonts (13,866 free fonts)
-          url: http://www.abstractfonts.com/
-    - name: Mockup
+        - name: 网信中国
+          description: 国家网信办官方账号
+        - name: 公安部网安局
+          description: 公安部网安局官方账号
+        - name: 公安部网络安全等级保护中心
+          description: 公安部第三研究所开展等级保护的官方账号
+        - name: 公安三所网络安全法律研究中心
+          description: 公安部第三研究所官方账号
+        - name:  CAICT互联网法律研究中心
+          description: 中国信息通信研究院官方账号
+        - name: 中国信通院CAICT
+          description: 中国信息通信研究院官方账号
+    - name: 其他公众号推荐
       sites:
         - name: MockupZone
           description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
@@ -374,8 +278,6 @@ content:
         - name: For Graphic TM
           description: High Quality PSD Mockups for Graphic Designers.
           url: http://forgraphictm.com/
-    - name: 摄影图库
-      sites:
         - name: Unsplash
           description: Beautiful, free photos.
           url: https://unsplash.com/
@@ -448,267 +350,4 @@ content:
         - name: publicdomainarchive
           description: New 100% Free Stock Photos. Every. Single. Week.
           url: http://publicdomainarchive.com/
-    - name: PPT资源
-      sites:
-        - name: OfficePLUS
-          description: OfficePLUS，微软Office官方在线模板网站！
-          url: http://www.officeplus.cn/Template/Home.shtml
-        - name: 优品PPT
-          description: 高质量的模版，而且还有PPT图表，PPT背景图等资源
-          url: http://www.ypppt.com/
-        - name: PPT+
-          description: PPT加直播、录制和分享—PPT+语音内容分享平台
-          url: http://www.pptplus.cn/
-        - name: PPTMind
-          description: 分享高端ppt模板与keynote模板的数字作品交易平台
-          url: http://www.pptmind.com/
-        - name: tretars
-          description: The best free Mockups from the Web
-          url: http://www.tretars.com/ppt-templates
-        - name: 5百丁
-          description: 中国领先的PPT模板共享平台
-          url: http://ppt.500d.me/
-    - name: 图形创意
-      sites:
-        - name: photoshop
-          description: Photoshop不需要解释
-          url: https://www.adobe.com/cn/products/photoshop.html
-        - name: Affinity Designer
-          description: 专业创意软件
-          url: https://affinity.serif.com/
-        - name: Illustrator
-          description: 矢量图形和插图。
-          url: https://www.adobe.com/cn/products/illustrator/
-        - name: indesign
-          description: 页面设计、布局和出版。
-          url: http://www.adobe.com/cn/products/indesign.html
-        - name: cinema-4d
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-        - name: 3ds-max
-          description: 3D modeling, animation, and rendering software
-          url: https://www.autodesk.com/products/3ds-max/overview
-        - name: Blender
-          description: Blender is the free and open source 3D creation suite.
-          url: https://www.blender.org/
-    - name: 界面设计
-      sites:
-        - name: Adobe XD
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-          url: http://www.adobe.com/products/xd.html
-        - name: invisionapp
-          description: Powerful design prototyping tools
-          url: https://www.invisionapp.com/
-        - name: marvelapp
-          description: Simple design, prototyping and collaboration
-          url: https://marvelapp.com/
-        - name: Muse CC
-          description: 无需利用编码即可进行网站设计。
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-        - name: figma
-          description: Design, prototype, and gather feedback all in one place with Figma.
-          url: https://www.figma.com/
-    - name: 交互动效
-      sites:
-        - name: Adobe After Effects CC
-          description: 电影般的视觉效果和动态图形。
-          url: https://www.adobe.com/cn/products/aftereffects/
-        - name: principle
-          description: Animate Your Ideas, Design Better Apps
-          url: http://principleformac.com/
-        - name: flinto
-          description: Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.
-          url: https://www.flinto.com/
-        - name: framer
-          description: Design everything from detailed icons to high-fidelity interactions—all in one place.
-          url: https://framer.com/
-        - name: ProtoPie
-          description: 高保真交互原型设计
-          url: http://www.protopie.cn/
-    - name: 在线配色
-      sites:
-        - name: khroma
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-          url: http://khroma.co/generator/
-        - name: uigradients
-          description: Beautiful colored gradients
-          url: https://uigradients.com
-        - name: gradients
-          description: Curated gradients for designers and developers
-          url: http://gradients.io/
-        - name: Coolest
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff
-          url: https://webkul.github.io/coolhue/
-        - name: webgradients
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website.
-          url: https://webgradients.com/
-        - name: grabient
-          description: 2017 Grabient by unfold
-          url: https://www.grabient.com/
-        - name: thedayscolor
-          description: The daily color digest
-          url: http://www.thedayscolor.com/
-        - name: flatuicolors
-          description: Copy Paste Color Pallette from Flat UI Theme
-          url: http://flatuicolors.com/
-        - name: coolors
-          description: The super fast color schemes generator!
-          url: https://coolors.co/
-        - name: colorhunt
-          description: Beautiful Color Palettes
-          url: http://www.colorhunt.co/
-        - name: Adobe Color CC
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-          url: https://color.adobe.com/zh/create/color-wheel
-        - name: flatuicolorpicker
-          description: Best Flat Colors For UI Design
-          url: http://www.flatuicolorpicker.com/
-        - name: trianglify
-          description: Trianglify Generator
-          url: http://qrohlf.com/trianglify-generator/
-        - name: klart
-          description: Beautiful colors and designs to your inbox every week
-          url: https://klart.co/colors/
-        - name: vanschneider
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-          url: http://www.vanschneider.com/colors
-    - name: 在线工具
-      sites:
-        - name: tinypng
-          description: Optimize your images with a perfect balance in quality and file size.
-          url: https://tinypng.com/
-        - name: goqr
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS)
-          url: http://goqr.me/
-        - name: ezgif
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-          url: https://ezgif.com
-        - name: Android 9 patch
-          description: Android 9-patch shadow generator fully customizable shadows
-          url: http://inloop.github.io/shadow4android/
-        - name: screen sizes
-          description: Viewport Sizes and Pixel Densities for Popular Devices
-          url: http://screensiz.es/
-        - name: svgomg
-          description: SVG在线压缩平台
-          url: https://jakearchibald.github.io/svgomg/
-        - name: 稿定抠图
-          description: 免费在线抠图软件,图片快速换背景-抠白底图
-          url: https://www.gaoding.com
-    - name: 设计规范
-      sites:
-        - name: Design Guidelines
-          description: Design Guidelines — The way products are built.
-          url: http://designguidelines.co/
-        - name: Awesome design systems
-          description: A collection of awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-        - name: Material Design
-          description: Introduction - Material Design
-          url: https://material.io/guidelines/
-        - name: Human Interface Guidelines
-          description: Human Interface Guidelines iOS
-          url: https://developer.apple.com/ios/human-interface-guidelines
-        - name: Photoshop Etiquette
-          description: PS礼仪-WEB设计指南
-          url: http://viggoz.com/photoshopetiquette/
-    - name: 视频教程
-      sites:
-        - name: Photoshop Lady
-          description: Your Favourite Photoshop Tutorials in One Place
-          url: http://www.photoshoplady.com/
-        - name: doyoudo
-          description: 创意设计软件学习平台
-          url: http://doyoudo.com/
-        - name: 没位道
-          description: WEB UI免费视频公开课
-          url: http://www.c945.com/web-ui-tutorial/
-        - name: 慕课网
-          description: 程序员的梦工厂（有UI课程）
-          url: https://www.imooc.com/
-    - name: 设计文章
-      sites:
-        - name: Web Design Ledger
-          description: Web Design Blog
-          url: https://webdesignledger.com
-    - name: 设计电台
-      sites:
-        - name: UX Coffee
-          description: 《UX Coffee 设计咖》是一档关于用户体验的播客节目。我们邀请来自硅谷和国内的学者和职人来聊聊「产品设计」、「用户体验」和「个人成长」。
-          url: http://uxcoffee.co/
-        - name: Anyway.FM
-          description: 设计杂谈 • UI 设计师 JJ 和 Leon 主播的设计播客
-          url: https://anyway.fm/
-        - name: 异能电台
-          description: 将全宇宙设计师的故事讲给你听。
-          url: https://www.yineng.fm
-    - name: 交互设计
-      sites:
-        - name: Little Big Details
-          description: Little Big Details is a curated collection of the finer details of design, updated every day.
-          url: http://littlebigdetails.com/
-        - name: Smashing Magazine
-          description: Below you’ll find the best tips to take not only your UX design process but also the experiences you craft to the next level.
-          url: https://www.smashingmagazine.com/category/user-experience
-        - name: nngroup
-          description: Evidence-Based User Experience Research, Training, and Consulting
-          url: https://www.nngroup.com/articles/
-        - name: Boxes and Arrows
-          description: Boxes and Arrows is devoted to the practice, innovation, and discussion of design; including graphic design, interaction design, information architecture and the design of business.
-          url: http://boxesandarrows.com/
-        - name: UX Design Weekly
-          description: get a hand picked list of the best user experience design links every week.
-          url: http://uxdesignweekly.com/
-        - name: UX Ren
-          description: 用户体验人的专业社区
-          url: http://uxren.cn/
-    - name: UED团队
-      sites:
-        - name: Airbnb Design
-          description: Airbnb Design
-          url: https://airbnb.design
-        - name: Facebook Design
-          description: Facebook Design
-          url: http://facebook.design/
-        - name: Google Design
-          description: Google Design
-          url: https://design.google/
-        - name: eico design
-          description: 数字化咨询与产品专家
-          url: http://eicodesign.com/
-        - name: nice design
-          description: nicedesign奈思设计是领先的用户体验设计与互联网品牌建设公司
-          url: http://www.niceui.cn/
-        - name: 腾讯CDC
-          description: 腾讯CDC关注于互联网视觉设计、交互设计、用户研究、前端开发。
-          url: http://cdc.tencent.com/
-        - name: TGideas
-          description: TGideas隶属于腾讯公司互动娱乐业务系统的专业推广类设计团队
-          url: http://tgideas.qq.com/
-        - name: ISUX
-          description: 腾讯社交用户体验设计部
-          url: https://isux.tencent.com/
-        - name: MXD
-          description: 腾讯MIG无线互联网事业群设计团队
-          url: http://mxd.tencent.com/
-        - name: Aliued
-          description: 阿里巴巴国际UED团队
-          url: http://www.aliued.com/
-        - name: U一点
-          description: 阿里巴巴（中国站）用户体验设计部博客U一点设计 UED团队
-          url: http://www.aliued.cn/
-        - name: 网易uedc
-          description: 网易用户体验设计中心（User Experience Design Center）
-          url: http://uedc.163.com/
-        - name: 百度用户体验中心
-          description: 百度用户体验中心
-          url: http://ued.baidu.com/
-        - name: 京东设计中心
-          description: 京东设计中心
-          url: http://jdc.jd.com/
-        - name: 百度企业产品用户体验中心
-          description: 百度企业产品用户体验中心
-          url: http://eux.baidu.com/
-        - name: 携程设计委员会
-          description: 携程设计委员会-Ctrip Design Committee
-          url: http://ued.ctrip.com/
+
