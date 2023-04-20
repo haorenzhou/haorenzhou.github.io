@@ -37,7 +37,7 @@ webstack:
       - zhihu
 
 content:
-  categories: 资讯应用
+  categories:
     - name: 资讯应用
       sites:
         - name: DataGuidance
@@ -48,7 +48,6 @@ content:
           url: https://iapp.org/news
         - name: GenAIs - AICG周报
           description: 可关注公众号“GenAIs”中的AICG周报栏目，该栏目每周会发布AICG行业的讯息。
-  categories: 重要网站
     - name: 数据法规网站
       sites:
         - name: 数据保护版图项目 Data Protection Mapping Project
@@ -99,12 +98,12 @@ content:
           url: https://www.dataguidance.com/jurisdiction/african-bodies
     - name: 欧洲数据保护机构官网
       sites:
-        - name: Iconfinder
-          description: 2,100,000+ free and premium vector icons.
-          url: https://www.iconfinder.com
-        - name: iconfont
-          description: 阿里巴巴矢量图标库
-          url: http://www.iconfont.cn/
+        - name: 🇪🇺欧盟各成员国数据保护机构集合
+          description: 列举了欧盟成员国数据保护机构的清单和简单信息。
+          url: https://edpb.europa.eu/about-edpb/about-edpb/members_en/
+        - name: 🇦🇹奥地利（dsb）
+          description: 奥地利数据保护机构
+          url: https://www.dsb.gv.at/
         - name: iconmonstr
           description: Free simple icons for your next project
           url: https://iconmonstr.com/
