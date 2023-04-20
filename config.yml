@@ -37,7 +37,7 @@ webstack:
       - zhihu
 
 content:
-  categories:
+  categories: 资讯应用
     - name: 资讯应用
       sites:
         - name: DataGuidance
@@ -48,7 +48,7 @@ content:
           url: https://iapp.org/news
         - name: GenAIs - AICG周报
           description: 可关注公众号“GenAIs”中的AICG周报栏目，该栏目每周会发布AICG行业的讯息。
-          url: https://mp.weixin.qq.com/s/29r1GEUZwXLK2luPKxW90A
+  categories: 重要网站
     - name: 数据法规网站
       sites:
         - name: 数据保护版图项目 Data Protection Mapping Project
@@ -97,7 +97,7 @@ content:
         - name: DataGuidance Jurisdiction
           description: DataGuidance网站对各国制度、新闻、评论文章的汇总。法律制度的介绍较为简单。
           url: https://www.dataguidance.com/jurisdiction/african-bodies
-    - name: 图标素材
+    - name: 欧洲数据保护机构官网
       sites:
         - name: Iconfinder
           description: 2,100,000+ free and premium vector icons.
