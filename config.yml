@@ -46,7 +46,7 @@ content:
         - name: Iapp news
           description: 【英文】每日新闻概览；资讯全免费；有原文链接。
           url: https://iapp.org/news
-  - name: 数据法规网站
+    - name: 数据法规网站
       sites:
         - name: 数据保护版图项目 Data Protection Mapping Project
           description: 用数据流的方式展示了各国规则之间的联系与不同，很直观。可以逐条对比各主要数据法之间的差异和对应关系。
@@ -57,7 +57,7 @@ content:
         - name: 欧盟、英国以及德国的数字立法进展追踪器
           description: 德国百年老牌律所Taylor Wessing设计了一款app，追踪欧盟、英国以及德国的数字立法进展。
           url: https://www.taylorwessing.com/en/online-services/digital-legislation-tracker?utm_source=LinkedIn&utm_medium=social&utm_content=Tool&utm_campaign=UK-DLT-210323
-  - name: 其他法规网站
+    - name: 其他法规网站
       sites:
         - name: 全球法规网
           description: 全球法规网是商务部官网项下的外国法律法规资源库，政府官方出品的高质量法规库，可以帮助大家快速无痛检索外国法律法规。境外法条、国际条约都支持标题及全文检索；法条均为官方中文译文，并附有原文链接；法规法条都按照国别及地区进行了分类，便于快速检索。
@@ -77,7 +77,7 @@ content:
         - name: 美国各类制裁清单的综合导航入口（CSL）
           description: 包含了出口管制、一类制裁、二类制裁等美国各部门发布的制裁清单。
           url: https://www.trade.gov/consolidated-screening-list
-  - name: 国外法律制度介绍
+    - name: 国外法律制度介绍
       sites:
         - name: DLA Piper Global Data Protection Laws of the World
           description: 【英文】DLA Piper律所对全球各国数据法的梳理与汇总。
