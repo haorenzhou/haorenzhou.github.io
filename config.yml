@@ -164,7 +164,7 @@ content:
         - name: 🇮🇪爱尔兰（DPC）
           description: 爱尔兰数据保护机构官网
           url: https://www.dataprotection.ie/
-    - name: 亚太地区数据保护机构官网
+    - name: 亚太地区机构官网
       sites:
         - name: 🇭🇰中国香港
           description: 中国香港個人資料私隱專員公署官网
@@ -202,7 +202,7 @@ content:
         - name: 🇦🇺澳大利亚（OAIC）
           description: 澳大利亚隐私专员办公室官网
           url: https://www.oaic.gov.au/       
-    - name: 中东地区数据保护机构官网
+    - name: 中东地区机构官网
       sites:
         - name: 🇸🇦沙特（NDMO）
           description: 沙特国家数据管理办公室官网
@@ -210,7 +210,7 @@ content:
         - name: 🇸🇦沙特（SDAIA）
           description: 沙特数据和人工智能管理局官网
           url: https://sdaia.gov.sa/
-    - name: 美洲地区数据保护机构官网
+    - name: 美洲地区构官网
       sites:
         - name: 🇨🇦加拿大（OPC）
           description: 加拿大隐私专员办公室官网
