@@ -49,7 +49,7 @@ content:
         - name: GenAIs - AICG周报
           description: 可关注公众号“GenAIs”中的AICG周报栏目，该栏目每周会发布AICG行业的讯息。
           url: https://mp.weixin.qq.com/s/29r1GEUZwXLK2luPKxW90A
-- name: 数据法规网站
+    - name: 数据法规网站
       sites:
         - name: 数据保护版图项目 Data Protection Mapping Project
           description: 用数据流的方式展示了各国规则之间的联系与不同，很直观。可以逐条对比各主要数据法之间的差异和对应关系。
