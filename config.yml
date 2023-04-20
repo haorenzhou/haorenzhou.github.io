@@ -48,7 +48,7 @@ content:
           url: https://iapp.org/news
         - name: GenAIs - AICG周报
           description: 可关注公众号“GenAIs”中的AICG周报栏目，该栏目每周会发布AICG行业的讯息。
-          icon：https://www.google.com/url?sa=i&url=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fgenai-closes-transaction-begin-trading-220000630.html&psig=AOvVaw18ot7b59d1C-LoFcRD_QKN&ust=1682042416235000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODV0Leut_4CFQAAAAAdAAAAABA
+          icon: https://www.google.com/url?sa=i&url=https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Fgenai-closes-transaction-begin-trading-220000630.html&psig=AOvVaw18ot7b59d1C-LoFcRD_QKN&ust=1682042416235000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCODV0Leut_4CFQAAAAAdAAAAABA
     - name: 数据法规网站
       sites:
         - name: 数据保护版图项目 Data Protection Mapping Project
