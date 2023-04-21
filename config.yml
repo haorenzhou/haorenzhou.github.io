@@ -96,7 +96,7 @@ content:
         - name: DataGuidance Jurisdiction
           description: DataGuidance网站对各国制度、新闻、评论文章的汇总。法律制度的介绍较为简单。
           url: https://www.dataguidance.com/jurisdiction/african-bodies
-    - name: 欧洲数据保护机构官网（从东到西）
+    - name: 欧洲数据保护机构官网
       sites:
         - name: 🇪🇺欧盟各成员国数据保护机构集合
           description: 列举了欧盟成员国数据保护机构的清单和简单信息。
@@ -252,102 +252,88 @@ content:
           description: 中国信息通信研究院官方账号
         - name: 中国信通院CAICT
           description: 中国信息通信研究院官方账号
-    - name: 其他公众号推荐
+        - name: CCIA数据安全工作委员会
+          description: 非常多对数据合规标准的解读，质量很高。          
+    - name: 实务类公众号推荐
       sites:
-        - name: MockupZone
-          description: Mockup Zone is an online store where you can find free and premium PSD mockup files to show your designs in a professional way.
-          url: https://mockup.zone/
-        - name: Dunnnk
-          description: Generate Product Mockups For Free
+        - name: 送法上网
+          description: 汇业史宇航律师的个人公众号。更新速度非常快，行文也通俗易懂，可读性非常强。
+        - name: TMT法律论坛
+          description: 中伦陈际红律师团队的公众号。更新快，干货很多。
           url: http://dunnnk.com/
         - name: Graphberry
           description: Free design resources, Mockups, PSD web templates, Icons
           url: http://www.graphberry.com/
-        - name: Threed
-          description: Generate 3D Mockups right in your Browser
-          url: http://threed.io/
-        - name: Mockup World
-          description: The best free Mockups from the Web
-          url: https://free.lstore.graphics/
-        - name: Lstore
-          description: Exclusive mindblowing freebies for designers and developers
-          url: https://free.lstore.graphics/
-        - name: pixeden
-          description: free web resources and graphic design templates.
-          url: https://www.pixeden.com/
-        - name: For Graphic TM
-          description: High Quality PSD Mockups for Graphic Designers.
-          url: http://forgraphictm.com/
-        - name: Unsplash
-          description: Beautiful, free photos.
-          url: https://unsplash.com/
-        - name: visualhunt
-          description: 100% Free High Quality Photos
-          url: https://visualhunt.com/
-        - name: librestock
-          description: 65,084 high quality do-what-ever-you-want stock photos
-          url: https://librestock.com/
-        - name: pixabay
-          description: 可在任何地方使用的免费图片和视频
-          url: https://pixabay.com/
-        - name: SplitShire
-          description: Free Stock Photos and Videos for commercial use.
+        - name: 个人信息与数据保护实务评论
+          description: 大成戴建民律师和邓志松律师团队的公众号，日常会摘编数据合规相关的资讯，域内外都有质量都不错，也会有自己的原创解读。
+        - name: 网络法实务圈
+          description: 垦丁律师事务所的官方公众号。涉猎的领域会比数据合规更加广泛一些，推文质量也不错。
+        - name: 出海互联网法律观察
+          description: 垦丁王捷律师团队的公众号。主要关注域外数据合规动态。数据出境100问干货真的很多。
+        - name: C位数据谈
+          description: 华诚吴月琴律师团队的公众号。新规解读的速度也很快，并且有时候会以图解的方式直观展示。
+        - name: 互联网合规君
+          description: 京衡张豪律师团队的公众号。对数据合规相关的刑事诉讼很有研究，并会不定期举办线下活动。
+        - name: 网数法室
+          description: 竞天公诚袁立志律师的公众号。行文大道至简、要言不烦，可以靠着短短几百字讲清楚非常复杂的问题。
+        - name: 智能晒客
+          description: 金诚同达彭凯律师团队的公众号。每个月会定期更新数据合规的月报同时推荐相关线上线下活动。
+        - name: 网络与数据法律事务
+          description: 汇业数据合规团队的公众号，黄春林律师很多非常有干货的新规解读都会发在这里。
+        - name: 数据合规与治理
+          description: 张晓丽，就职于某大型互联网企业，从事海外业务的隐私保护工作。意见领袖，常提出新潮的话题并提出自己的观点。
+    - name: 学术类公众号推荐
+      sites:
+        - name: 网安寻路人
+          description: 北理工洪延青老师的公众号，很多域外法规的翻译以及境内新规深度解读都会首发于此。
           url: https://www.splitshire.com/
-        - name: StockSnap
-          description: Beautiful free stock photos
-          url: https://stocksnap.io/
-        - name: albumarium
-          description: The best place to find & share beautiful images
-          url: http://albumarium.com/
-        - name: myphotopack
-          description: A free photo pack just for you. Every month.
-          url: https://myphotopack.com/
-        - name: Notaselfie
-          description: Photos that happen along the way. You can use the images anyway you like. Have fun!
-          url: http://notaselfie.com/
-        - name: papers
-          description: Wallpapers Every Hour!Hand collected :)
-          url: http://papers.co/
-        - name: stokpic
-          description: Free Stock Photos For Commercial Use
-          url: http://stokpic.com/
-        - name: 55mm
-          description: Use our FREE photos to tell your story!
-          url: https://55mm.co/visuals
-        - name: thestocks
-          description: Use our FREE photos to tell your story!
-          url: http://thestocks.im/
-        - name: freenaturestock
-          description: Exclusive mindblowing freebies for designers and developers
-          url: http://freenaturestock.com/
-        - name: negativespace
-          description: Beautiful, High-Resolution Free Stock Photos
-          url: https://negativespace.co/
-        - name: gratisography
-          description: Free high-resolution pictures you can use on your personal and commercial projects, free of copyright restrictions.
-          url: https://gratisography.com/
-        - name: imcreator
-          description: A curated collection of free web design resources, all for commercial use.
-          url: http://imcreator.com/free
-        - name: lifeofpix
-          description: Free high resolution photography
-          url: http://www.lifeofpix.com/
-        - name: skitterphoto
-          description: Free Stock Photos for Creative Professionals
-          url: https://skitterphoto.com/
-        - name: mmtstock
-          description: Free photos for commercial use
-          url: https://mmtstock.com/
-        - name: magdeleine
-          description: HAND-PICKED FREE PHOTOS FOR YOUR INSPIRATION
-          url: https://magdeleine.co/browse/
-        - name: jeshoots
-          description: New Free Photos & Mockups in to your Inbox!
-          url: http://jeshoots.com/
-        - name: hdwallpapers
-          description: High Definition Wallpapers & Desktop Backgrounds
-          url: https://www.hdwallpapers.net
-        - name: publicdomainarchive
-          description: New 100% Free Stock Photos. Every. Single. Week.
-          url: http://publicdomainarchive.com/
-
+        - name: 数据信任与治理
+          description: 北理工洪延青老师参与的另一公众号，推送质量也非常高。
+        - name: 清华大学智能法治研究院
+          description: 清华大学法学院计算法学相关的成果都会发表于此。也有一些由在读同学完成非常有深度的文献综述。
+        - name: 数据法律资讯
+          description: 华政互联网法治研究院的号，定期会发布域内外的数据资讯。
+        - name: 数字经济与社会
+          description: 对外经贸大学许可老师团队的公众号，相关学术论文和域内外数据法律动态均会更新。
+        - name: 科技利维坦
+          description: 李汶龙老师的公众号，解读文章很有个人风格，值得珍藏。
+        - name: 网络西东
+          description: 人大的丁晓东老师及同学们运营，主要关注域外法，会做很多数据法相关的翻译和文献综述，质量非常高。
+        - name: 小贝说安全
+          description: 左晓栋老师的公众号。对很多官方文件、标准的释义非常准确。
+     - name: 安全类公众号推荐
+      sites:
+        - name: 安全小飞侠
+          description: 著名网络安全红蓝对抗专家、安全闭门会议Security Practice Summit发起人。
+        - name: 鸟哥谈云安全
+          description: 著名白帽子cnbird，安全圈老人、资深安全专家，对云安全有深入研究。
+        - name: 君哥的体历
+          description: 资深安全专家，对企业安全体系建设特别是金融行业的安全体系经验丰富。
+        - name: 皮相
+          description: 圈内老前辈、安全焦点核心成员、腾讯安全玄武实验室负责人tombkeeper。
+        - name: 兜哥带你学安全
+          description: 既懂网络安全又懂AI的大佬，对AI应用到安全领域有很深入的研究
+        - name: 赛博攻防悟道
+          description: 安全圈老人、80SEC成员、资深白帽子rayh4c的公众号
+        - name: 吴鲁加
+          description: 老一辈黑客、安全焦点的核心成员quack，网络安全经验丰富，创立了安全公司大成天下。
+         - name: Ms08067安全实验室
+          description: 北京交通大学安全研究员，公众号文章技术实战居多，非常适合年轻人学习。
+        - name: 懒人在思考
+          description: 《Web前端黑客技术揭秘》作者、安全圈老人余弦的公众号。
+        - name: 钱塘门外的互联网散修
+          description: flyh4t的公众号，著名白帽子、TSRC第三任负责人。
+        - name: 漏洞战争
+          description: 《漏洞战争：软件漏洞分析精要》作者riusksk的公众号。
+        - name: 全频带阻塞干扰
+          description: RC2反窃密实验室负责人、ZerOne无线安全团队创始人、《无线网络攻防实战》系列书籍作者Longas杨叔的公众号。
+    - name: 其他公众号推荐
+      sites:
+        - name: 财经E法
+          description: 《财经》数据合规相关的新闻报道。
+        - name: 隐私护卫队
+          description: 《南方都市报》关于隐私保护专门的公众号。
+        - name: 炼石网络
+          description: 几乎可以说是业内最卷，质量最高的数据合规长图、PPT制作公众号。
+        - name: 安知讯
+          description: 金融机构相关的网络、数据安全资讯。
