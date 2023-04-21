@@ -301,7 +301,7 @@ content:
           description: 人大的丁晓东老师及同学们运营，主要关注域外法，会做很多数据法相关的翻译和文献综述，质量非常高。
         - name: 小贝说安全
           description: 左晓栋老师的公众号。对很多官方文件、标准的释义非常准确。
-     - name: 安全类公众号推荐
+    - name: 安全类公众号推荐
       sites:
         - name: 安全小飞侠
           description: 著名网络安全红蓝对抗专家、安全闭门会议Security Practice Summit发起人。
@@ -317,7 +317,7 @@ content:
           description: 安全圈老人、80SEC成员、资深白帽子rayh4c的公众号
         - name: 吴鲁加
           description: 老一辈黑客、安全焦点的核心成员quack，网络安全经验丰富，创立了安全公司大成天下。
-         - name: Ms08067安全实验室
+        - name: Ms08067安全实验室
           description: 北京交通大学安全研究员，公众号文章技术实战居多，非常适合年轻人学习。
         - name: 懒人在思考
           description: 《Web前端黑客技术揭秘》作者、安全圈老人余弦的公众号。
