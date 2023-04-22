@@ -260,10 +260,6 @@ content:
           description: 汇业史宇航律师的个人公众号。更新速度非常快，行文也通俗易懂，可读性非常强。
         - name: TMT法律论坛
           description: 中伦陈际红律师团队的公众号。更新快，干货很多。
-          url: http://dunnnk.com/
-        - name: Graphberry
-          description: Free design resources, Mockups, PSD web templates, Icons
-          url: http://www.graphberry.com/
         - name: 个人信息与数据保护实务评论
           description: 大成戴建民律师和邓志松律师团队的公众号，日常会摘编数据合规相关的资讯，域内外都有质量都不错，也会有自己的原创解读。
         - name: 网络法实务圈
@@ -286,7 +282,6 @@ content:
       sites:
         - name: 网安寻路人
           description: 北理工洪延青老师的公众号，很多域外法规的翻译以及境内新规深度解读都会首发于此。
-          url: https://www.splitshire.com/
         - name: 数据信任与治理
           description: 北理工洪延青老师参与的另一公众号，推送质量也非常高。
         - name: 清华大学智能法治研究院
